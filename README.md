@@ -16,7 +16,7 @@
 
 ## ⚡ INTERACTIVE TECH STACK
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,html,css,js,bootstrap,git,github,linux" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,html,css,js,bootstrap,git,github" alt="Tech Stack Icons" />
 </div>
 
 ---
