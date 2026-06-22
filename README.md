@@ -25,7 +25,7 @@
 *(Hover over icons — they react!)*
 <br />
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,html,css,js,bootstrap,git,github,linux,regex" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,html,css,js,bootstrap,git,github,linkedin" alt="Tech Stack Icons" />
 </div>
 
 ---
